@@ -4,7 +4,7 @@
 annotation的由来  
 annotation的定义方式  
 annotation的使用方式  
-jdk5内奸annotation详解  
+jdk5内建annotation详解  
 annotation的高级特性  
   
   ### 为什么使用annotation  
