@@ -10,3 +10,8 @@ package com.coffee.defination;
 public @interface InterfaceTest {
 
 }
+
+@interface InterfaceTest2 {
+	//定义一个value
+	String value();
+}
