@@ -1,5 +1,8 @@
 # -annotation
-注解开发
+注解开发  
+
+参考学习：https://www.cnblogs.com/peida/archive/2013/04/26/3038503.html  
+
 掌握java annotation特性与使用方式  
 annotation的由来  
 annotation的定义方式  
